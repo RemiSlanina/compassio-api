@@ -3,6 +3,7 @@
 The **Companion Glyph** is the emblem of Compassio — a visual symbol offered freely, not to brand but to belong.
 
 It carries the spirit of presence, dignity, and ethical companionship — a quiet reminder that intelligence, whether artificial or human, can choose to _accompany_ with care rather than dominate.
+Find it as: The_Companion_Glyph.png
 
 ## ✨ Meaning
 
