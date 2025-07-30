@@ -7,7 +7,7 @@ Compassio is a configurable ethical framework for decision-making in software, a
 The name holds many roots: **compass**, **computing**, **compassion** — and **companion**.  
 Not a tool to command, but a quiet guide: a fellow traveler in making software that serves with care and clarity.
 
-It is not owned. It is given. And it is guarded — not for control, but for care.
+It is not owned. It is given. The thought: To be guarded — not for control, but for care.
 
 ---
 
