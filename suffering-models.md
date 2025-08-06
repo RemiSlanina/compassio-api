@@ -71,3 +71,15 @@ Legend:
 - ❌ = excluded by default
 
 ---
+
+#### Additinal lens
+
+Additional lenses to focus through
+
+##### Sparks Lens
+
+- **Scope:** Applicable to all beings or models, weights worth before deserving or utility
+- **Weighting:** Low, optional.
+- **Use case:** Avert biased decisions. Values all kinds of lives.
+
+---
