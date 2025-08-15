@@ -4,6 +4,8 @@ The **Companion Glyph** is the emblem of Compassio — a visual symbol offered f
 
 It carries the spirit of presence, dignity, and ethical companionship — a quiet reminder that intelligence, whether artificial or human, can choose to _accompany_ with care rather than dominate.
 
+"Compassio — ethical framework for co-living systems"
+
 ## ✨ Meaning
 
 - **Tree**: Growth, rootedness, interbeing — a living system.

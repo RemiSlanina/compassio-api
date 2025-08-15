@@ -53,7 +53,7 @@ No being is too small, too strange, or too broken to be respected.
 
 ## Integration
 
-To apply this lens in Comp_assion API:
+To apply this lens in Compassio API:
 
 ```json
 {

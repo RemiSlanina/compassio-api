@@ -1,4 +1,4 @@
-### suffering-models.md
+### Suffering Models
 
 #### Overview
 
@@ -50,6 +50,13 @@ The `Compassio API` allows users to select from a range of ethical lenses ("suff
 - **Weighting:** Low, optional.
 - **Use case:** Symbolic models, care ethics extension.
 
+##### 8. `deepTime` (as a model?)
+
+- **Scope:** Far-future beings, planetary systems, irreversible legacies
+- **Weighting:** Extremely high for irreversible or extinction-level effects
+- **Time Horizon:** 500–100,000+ years
+- **Use case:** Climate policy, species extinction, AI alignment, nuclear risk, deep ecology
+
 ---
 
 #### Comparison Table (Example)
@@ -81,5 +88,41 @@ Additional lenses to focus through
 - **Scope:** Applicable to all beings or models, weights worth before deserving or utility
 - **Weighting:** Low, optional.
 - **Use case:** Avert biased decisions. Values all kinds of lives.
+
+##### Fragility Lens
+
+- **Scope:** Applicable to all beings or models, weights vulnerability and irreversibility
+- **Weighting:** Low, optional.
+- **Use case:** Avert biased decisions. Values what might be gone for good.
+
+##### Deep Time (as a lens?)
+
+- **Scope:** Applicable to all beings or models, weights long term impact
+- **Weighting:** Low, optional.
+- **Use case:** Future generations and lives/beings.
+
+---
+
+#### Possible Weight Systems (First Draft)
+
+##### Comparison Table (Draft)
+
+| Entity or Impact                   | Suggested Weight       |
+| ---------------------------------- | ---------------------- |
+| Human extinction                   | 1.0                    |
+| Non-human extinction               | 0.9                    |
+| Ocean acidification                | 0.8                    |
+| Nuclear contamination (half-lives) | 0.8                    |
+| Irreversible ecosystem loss        | 0.85                   |
+| Permanent language loss            | 0.6                    |
+| Unrecoverable cultural erasure     | 0.7                    |
+| Planetary system disruption        | 0.9                    |
+| Future unknown lives               | 0.5–1.0 (configurable) |
+
+##### Why this matters
+
+This model gives voice to the unborn, and weight to the kinds of decisions that no one now alive can ever undo. It echoes the thought: that just because a being or era is not present, doesn't mean it doesn't suffer.
+
+In a way, this is also a grief-aware model. It points out that some losses might ripple for millennia.
 
 ---

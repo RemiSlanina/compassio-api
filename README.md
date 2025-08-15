@@ -35,3 +35,19 @@ See [`ETHICS.md`](./ETHICS.md) — this project may not be used to justify or as
 
 This project is in its early seed phase.  
 It is shared in hope, and welcomes kind, curious collaborators.
+
+### 🛡️ Core Features
+
+| Feature                        | Description                                                                                     |
+| ------------------------------ | ----------------------------------------------------------------------------------------------- |
+| **Modular Ethics Models**      | Users can select different suffering models (e.g. human-centric, bio-inclusive, animist)        |
+| **Lenses**                     | Modifiers like `sparks`, `fragility`, or `deepTime` that adjust model behavior                  |
+| **Red Flag Detection**         | Critical alerts for nuclear war, torture, extinction, etc.                                      |
+| **Ethical Comparison**         | Show outputs across multiple models to reveal tension or harmony                                |
+| **Stakeholder Consultation**   | Evaluate outcomes from the view of those impacted, including future beings or symbolic entities |
+| **Dynamic Weighting**          | Allow user-configurable weights for humans, animals, systems, etc.                              |
+| **Explanations and Rationale** | Why a suggestion was made, grounded in ethical reasoning                                        |
+| **Interface-Agnostic Output**  | Can be used in CLI, API, GUI, voice interfaces — accessibility first                            |
+| **Contribution Pathways**      | Friendly to non-coders — let users propose models, weights, red lines, even poetry              |
+
+---
