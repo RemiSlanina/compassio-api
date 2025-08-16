@@ -27,15 +27,6 @@ It is not owned. It is given. The thought: To be guarded — not for control, bu
 
 ---
 
-### 🛡️ Ethics and Use
-
-See [`ETHICS.md`](./ETHICS.md) — this project may not be used to justify or assist in actions that violate the dignity of conscious beings.
-
----
-
-This project is in its early seed phase.  
-It is shared in hope, and welcomes kind, curious collaborators.
-
 ### 🛡️ Core Features
 
 | Feature                        | Description                                                                                     |
@@ -51,3 +42,26 @@ It is shared in hope, and welcomes kind, curious collaborators.
 | **Contribution Pathways**      | Friendly to non-coders — let users propose models, weights, red lines, even poetry              |
 
 ---
+
+### 🛡️ Ethics and Use
+
+See [`ETHICS.md`](./ETHICS.md) — this project may not be used to justify or assist in actions that violate the dignity of conscious beings.
+
+This project is in its early seed phase.  
+It is shared in hope, and welcomes kind, curious collaborators.
+
+---
+
+### 🍃 A Note on Non-Attachment
+
+Compassio is not here to save the world.
+
+It is offered as a seed — not to control outcomes, but to sow presence and care.  
+Others may carry it forward. Or not. That is not failure.
+
+Build with clarity. Create with kindness.  
+Let it be a joy to make. Let others choose if it serves.
+
+Let this be enough.
+
+📘 See also: [`seed.md`](./seed.md)
