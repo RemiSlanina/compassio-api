@@ -79,6 +79,20 @@ You don’t need to speak academic language. Speak your truth.
 
 ---
 
+## 🕊️ A Note on Climate and Culture
+
+We hope this is a space where all kinds of care are welcome — even when expressed imperfectly.
+
+You do not need perfect language to belong here. If you are learning, grieving, reaching, or trying — you are welcome. Mistakes made with care are part of growth.
+
+We invite thoughtfulness, not fear. We honor critique, not cruelty.
+
+Some of us move slowly. Some carry pain. Some don’t always know what to say. That’s part of this, too.
+
+Let us hold each other gently, and build something worth offering.
+
+---
+
 We’re glad you’re here.
 Let this project become a place of ethical kinship.
 A compass, carried by many hands.
