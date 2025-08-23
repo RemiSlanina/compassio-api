@@ -33,6 +33,12 @@ This folder may include:
 
 ## 🛠 How to Contribute a Lens
 
+We welcome contributions from all who wish to support the reduction of suffering and the honoring of dignity — across beings, traditions, and perspectives.
+
+Whether you come from a minority, majority, Indigenous, diasporic, queer, neurodivergent, disabled, academic, spiritual, or technical background — or whether you are white, male, or simply unsure where you fit — your care is welcome here.
+
+You are not required to represent a group. You are welcome as a person. What matters is that your contribution aligns with Compassio’s core intention: to reduce harm and uplift the voices and lives so often overlooked.
+
 See [`invitation.md`](../invitation.md) and [`cultural-lenses.md`](./cultural-lenses.md) for guidance on how to describe and submit a lens.
 
 Lenses may be added as:
